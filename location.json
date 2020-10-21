@@ -1,0 +1,20 @@
+[
+{
+  "name": "ChinaTown",
+  "clue": "So many chinese foods right there",
+  "lat": "39.9535",
+  "lot": "-75.1563"
+},
+{
+  "name": "Liberty Bell",
+  "clue": "Hear the voice of freedom in Philadelphia",
+  "lat": "39.94961",
+  "lot": "-75.150282"
+},
+{
+  "name": "King of Prussia Mall",
+  "clue": "The biggest mall in philadelphia",
+  "lat": "40.088333",
+  "lot": "-75.390282"
+}
+]
